@@ -1,0 +1,10 @@
+.truc {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    flex-direction: row;
+    margin-right: 5px;
+    width: 30000px;
+}

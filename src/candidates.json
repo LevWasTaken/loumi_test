@@ -1,0 +1,107 @@
+{
+    "candidates": [{
+            "title": "Colocation 2 pers.",
+            "tenants": [{
+                    "image": "images/germain.png",
+                    "name": "Germain A.",
+                    "job": "étudiant"
+                },
+                {
+                    "image": "images/arthur.png",
+                    "name": "Arthur B.",
+                    "job": "étudiant"
+                }
+            ],
+            "income": {
+                "candidates": 2500,
+                "guarantor": 5000
+            },
+            "visiting_date": {
+                "day": "13 mars",
+                "hour": "14h15"
+            }
+        },
+        {
+            "title": "zinzins de l'espace",
+            "tenants": [{
+                    "image": "images/etno.png",
+                    "name": "Etno",
+                    "job": "Profession Libérale"
+                },
+                {
+                    "image": "images/candy.png",
+                    "name": "Candy",
+                    "job": "CDD"
+                }
+            ],
+            "income": {
+                "candidates": 5000,
+                "guarantor": 200
+            },
+            "visiting_date": {
+                "day": "14 mars",
+                "hour": "14h45"
+            }
+        },
+        {
+            "title": "zinzins de l'espace",
+            "tenants": [{
+                    "image": "images/bud.png",
+                    "name": "Bud",
+                    "job": "Sans Emploi"
+                },
+                {
+                    "image": "images/gorgious.png",
+                    "name": "Gorgious",
+                    "job": "CDI"
+                }
+            ],
+            "income": {
+                "candidates": 2000,
+                "guarantor": 7000
+            },
+            "visiting_date": {
+                "day": "14 mars",
+                "hour": "11h30"
+            }
+        },
+        {
+            "title": "Couple sans enfants",
+            "tenants": [{
+                    "image": "images/bob.png",
+                    "name": "Bob l'éponge",
+                    "job": "CDI"
+                },
+                {
+                    "image": "images/patrick.png",
+                    "name": "Patrick l'étoile de mer",
+                    "job": "Sans emploi"
+                }
+            ],
+            "income": {
+                "candidates": 3000,
+                "guarantor": 2000
+            },
+            "visiting_date": {
+                "day": "12 mars",
+                "hour": "10h30"
+            }
+        },
+        {
+            "title": "Locataire unique",
+            "tenants": [{
+                "image": "images/jacqueline.png",
+                "name": "Jacqueline Mouette",
+                "job": "CDI"
+            }],
+            "income": {
+                "candidates": 6000,
+                "guarantor": 0
+            },
+            "visiting_date": {
+                "day": "22 mars",
+                "hour": "15h20"
+            }
+        }
+    ]
+}
