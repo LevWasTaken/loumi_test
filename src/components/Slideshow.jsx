@@ -10,8 +10,6 @@ const displayCandidate = candidates.candidates.map((candidate) => {
     return <Candidate title = {candidate.title} tenants = {candidate.tenants} income = {candidate.income} visiting_date = {candidate.visiting_date}></Candidate>
 })
 
-console.log(candidates)
-console.log(displayCandidate)
 const Slideshow = () => {
     return (
         <div className="slide-container">

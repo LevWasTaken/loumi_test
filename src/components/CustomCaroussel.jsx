@@ -11,11 +11,11 @@ const CustomCarousel = () => {
     return (
         <div>
         <Carousel itemsToShow={3} renderPagination={()=> <div></div>}>
-            <div className ="truc">{displayCandidate[0]}</div>
-            <div className ="truc">{displayCandidate[1]}</div>
-            <div className ="truc">{displayCandidate[2]}</div>
-            <div className ="truc">{displayCandidate[3]}</div>
-            <div className ="truc">{displayCandidate[4]}</div>
+            <div className ="candidate">{displayCandidate[0]}</div>
+            <div className ="candidate">{displayCandidate[1]}</div>
+            <div className ="candidate">{displayCandidate[2]}</div>
+            <div className ="candidate">{displayCandidate[3]}</div>
+            <div className ="candidate">{displayCandidate[4]}</div>
         </Carousel>
         </div>
     )
